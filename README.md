@@ -8,26 +8,22 @@ In this project of MITxPro, I made an animation of eyes that follow your mouse. 
 Clone this repo in your local environment usin
 
 ```bash
-git clone https://github.com/EffrenAnthony/pacmen
+git clone https://github.com/EffrenAnthony/eyes-moving
 ```
 
 Go to the root of your project and open the `index.html` file in your browser.
 
 ### Intrucctions:
 
-- Create pacmens with the create button
-- Create as many as you want
-- Start the game with "Start game" button
-- Continue clicking to make the game faster
+- Move your mouse to se how all the eyes follow it
 
 ## Roadmap of future improvements:
 
 Some of the next functionalities that I would like to implement in this project are:
 
-- Stop the game
-- Restart from scratch
-- Restart from last Stop
-- Change assets to create randomly between pacman and ghosts
+- Add more objects like balls, persons, etc
+- Display a list of objects to animate
+- Show the animated object when choosing the item in the list
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -35,4 +31,4 @@ Some of the next functionalities that I would like to implement in this project 
 
 ### Back to portfolio
 
-<a href="https://effrenanthony.github.io/packmen/index.html">Back to profolio</a>
+<a href="https://effrenanthony.github.io/eye/index.html">Back to profolio</a>
